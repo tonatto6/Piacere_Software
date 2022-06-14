@@ -1,0 +1,6 @@
+C:\Piacere_Software\Piacere_Software\DAL\bin\Debug\DAL.dll
+C:\Piacere_Software\Piacere_Software\DAL\bin\Debug\DAL.pdb
+C:\Piacere_Software\Piacere_Software\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Piacere_Software\Piacere_Software\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Piacere_Software\Piacere_Software\DAL\obj\Debug\DAL.dll
+C:\Piacere_Software\Piacere_Software\DAL\obj\Debug\DAL.pdb

@@ -1,0 +1,10 @@
+C:\Piacere_Software\Piacere_Software\MPP\bin\Debug\MPP.dll
+C:\Piacere_Software\Piacere_Software\MPP\bin\Debug\MPP.pdb
+C:\Piacere_Software\Piacere_Software\MPP\bin\Debug\BE.dll
+C:\Piacere_Software\Piacere_Software\MPP\bin\Debug\DAL.dll
+C:\Piacere_Software\Piacere_Software\MPP\bin\Debug\BE.pdb
+C:\Piacere_Software\Piacere_Software\MPP\bin\Debug\DAL.pdb
+C:\Piacere_Software\Piacere_Software\MPP\obj\Debug\MPP.csproj.AssemblyReference.cache
+C:\Piacere_Software\Piacere_Software\MPP\obj\Debug\MPP.csproj.CoreCompileInputs.cache
+C:\Piacere_Software\Piacere_Software\MPP\obj\Debug\MPP.dll
+C:\Piacere_Software\Piacere_Software\MPP\obj\Debug\MPP.pdb

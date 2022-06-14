@@ -1,0 +1,6 @@
+C:\Piacere_Software\Piacere_Software\BE\bin\Debug\BE.dll
+C:\Piacere_Software\Piacere_Software\BE\bin\Debug\BE.pdb
+C:\Piacere_Software\Piacere_Software\BE\obj\Debug\BE.csproj.AssemblyReference.cache
+C:\Piacere_Software\Piacere_Software\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
+C:\Piacere_Software\Piacere_Software\BE\obj\Debug\BE.dll
+C:\Piacere_Software\Piacere_Software\BE\obj\Debug\BE.pdb
